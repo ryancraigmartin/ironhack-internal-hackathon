@@ -8,7 +8,9 @@ UX/UI + WEB DEV
 
 
 Duration: 2h 30min
+
 Clone this repository: https://github.com/sandrabosk/ironhack-internal-hackathon
+
 Each team will have one UX/UI Designer and four Developers. The goal is to redesign Ironhack Miami landing page (https://www.ironhack.com/en/locations/miami). In the end, each team will present their work in 5 minutes or less and judges will decide who is the winner. 
 
 
