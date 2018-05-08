@@ -20,10 +20,10 @@ Let’s have fun and learn as much as possible from each other.
 Agenda:
 
 A. For the first 20 minutes the designer explains to the fellow developers how they got into the process of creating a landing page:
-	- Who is the client? 
-	- What is the problem that they are trying to solve?
-	- Who are the target users?
-	- What are the goals you are trying to accomplish with this design?
+- Who is the client? 
+- What is the problem that they are trying to solve?
+- Who are the target users?
+- What are the goals you are trying to accomplish with this design?
 	
 	1. Explain the Design Thinking Process: 
 		a. Empathize	
